@@ -1,4 +1,4 @@
-#include "ninary_trees.h"
+#include "binary_trees.h"
 /**
  * binary_tree_is_root - creates abinary tree node.
  *
